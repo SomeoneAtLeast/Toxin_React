@@ -1,1 +1,1 @@
-<a href="https://someoneatleast.github.io/Toxin_React/dist/index.html"> Посмотреть </a>
+<a href="https://someoneatleast.github.io/Toxin_React/dist/index.html"> <h1>Посмотреть</h1> </a>
